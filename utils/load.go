@@ -1,4 +1,4 @@
-package utils
+package github.com/ActMartin/almlibrary/utils
 
 import (
 	"encoding/csv"
